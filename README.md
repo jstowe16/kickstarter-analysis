@@ -5,7 +5,7 @@ The client, Louise, is interested in Kickstarter campaigns similar to those of t
 The analysis is based on the data provided in "StarterBook.xlsx". 
 
 ## **Analysis and Challenges**
-### _Theater Outcomes Based on launch_
+### _Theater Outcomes Based on Launch_
 The primary challenge to determine the month of launch using Excel Pivot Tabes is the removal of the default fields that populate the Row when the Date Created Converstion field is selected. To isolate the months, the default Year and Quarter fields must be removed, even though the Month field is not auto-populated. The auto-populated fields are circled in red in the image below. 
 
 ![image](https://user-images.githubusercontent.com/106441473/174940090-a070cbdd-4209-4b4f-a7d3-23c5e6fdac18.png)
